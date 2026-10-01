@@ -4,7 +4,7 @@ import Navbar from '../layout/Navbar';
 import HeroContent from './HeroContent';
 import HeroStatsBar from './HeroStatsBar';
 import HeroPagination from './HeroPagination';
-import heroBg from '../../assets/hero_section_bg.png';
+import heroBg from '../../assets/hero_section_bg.webp';
 
 export default function Hero() {
   return (

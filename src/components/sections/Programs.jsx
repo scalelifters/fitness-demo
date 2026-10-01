@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { ArrowUpRight } from 'lucide-react';
-import ropeVideo from '../../assets/rope-bg.mp4';
-import icon1 from '../../assets/programs-card1.png';
-import icon2 from '../../assets/programs-card2.png';
-import icon3 from '../../assets/programs-card3.png';
-import icon4 from '../../assets/programs-card4.png';
+import ropeVideo from '../../assets/rope-bg-small.mp4';
+import icon1 from '../../assets/programs-card1.webp';
+import icon2 from '../../assets/programs-card2.webp';
+import icon3 from '../../assets/programs-card3.webp';
+import icon4 from '../../assets/programs-card4.webp';
 
 export default function Programs() {
   return (

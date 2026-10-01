@@ -1,4 +1,4 @@
-import wayLogo from './assets/main_logo.png'
+import wayLogo from './assets/main_logo.webp'
 
 export const brands = {
   waytofitness: {
